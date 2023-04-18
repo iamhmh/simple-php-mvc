@@ -6,5 +6,7 @@
 </head>
 <body>
     <h1>Page Catégorie</h1>
+    <!--bouton redirecction article-->
+    <a href="category/article">Article</a>
 </body>
 </html>
